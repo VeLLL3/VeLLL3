@@ -1,4 +1,4 @@
- <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/" target="_blank">VeLL</h1> 
+ <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/" target="_blank">VeLLL</h1> 
      
 <div id="header" align="center">  
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neeru24&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=VeLLL3&style=for-the-badge" />
 </p>
 
 
@@ -72,7 +72,7 @@
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 <div align="center" width="50%">
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VeLLL3&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
 
 
   </p>
@@ -82,11 +82,11 @@
 <div align="center" style="max-width: 600px; margin: auto;">
 
   <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeLLL3&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeLLL3&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeLLL3&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VeLLL3&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VeLLL3&theme=github_dark" />
   </div>
   <br>
   
@@ -94,7 +94,7 @@
 
 <div align="center"
 	
-![Snake animation](https://raw.githubusercontent.com/neeru24/neeru24/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/VeLLL3/VeLLL3/output/github-snake-dark.svg)
 
 </div>
 
