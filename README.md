@@ -136,3 +136,6 @@
     </h1>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=VeLLL3&color=2575fc&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
