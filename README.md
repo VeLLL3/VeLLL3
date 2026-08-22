@@ -36,14 +36,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VeLLL3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeLLL3&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VeLLL3&theme=radical&hide_border=true" />
 
 </div>
 
