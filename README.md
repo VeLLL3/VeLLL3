@@ -1,79 +1,138 @@
-<div align="center">
-
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Halo,%20Saya%20%5BNama%20Kamu%5D%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=550&lines=Membangun+sesuatu+yang+keren+💻;Belajar+hal+baru+setiap+hari+🚀;Terbuka+untuk+kolaborasi+🤝" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
-### 👨‍💻 Tentang Saya
-
-- 🔭 Sedang mengerjakan **[nama proyek kamu]**
-- 🌱 Sedang belajar **[teknologi/skill yang sedang dipelajari]**
-- 💬 Tanya saya soal **[topik keahlian kamu]**
-- 📫 Cara menghubungi saya: **[email kamu]**
-- ⚡ Fun fact: **[fakta unik tentang kamu]**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,github,figma,mysql,mongodb,docker&theme=dark" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VeLLL3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeLLL3&layout=compact&theme=radical&hide_border=true" height="165"/>
-
+ <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Neeru</h1> 
+     
+<div id="header" align="center">  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VeLLL3&theme=radical&hide_border=true" />
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'27+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
 
 </div>
 
----
-
-### 🌐 Terhubung Dengan Saya
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <div align="center">
+  <a href="mailto:neerugangarh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=10" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/neerugangarh/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" height="40" alt="LinkedIn" />
+  </a>
+</div>
 
-<a href="https://linkedin.com/in/USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:email@kamu.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://USERNAME.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neeru24&style=for-the-badge" />
+</p>
+
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
+<!--Languages & tools-->
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
+
+<table align="center">
+
+<tr>
+<td><strong>Languages & Core Tech</strong></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=cpp,py,opencv,matlab,&theme=dark">
+</td>
+</tr>
+
+<tr>
+<td><strong>Frontend Development</strong></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark">
+</td>
+</tr>
+
+
+<tr>
+<td><strong>Developer Tools</strong></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=github,vscode,git,vercel,netlify,linux&theme=dark">
+</td>
+</tr>
+
+</table>
+<br>
+
+
+
+
+
+<h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
+<div align="center" style="max-width: 600px; margin: auto;">
+
+<h3 style="text-align: left; font-size: 16px;">
+        🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
+</h3>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
+    <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
+  </div>
+  <div style="margin-top: 20px;">
+    <a href="https://holopin.io/@neeru">
+      <img src="https://holopin.me/neeru" alt="An image of @neeru's Holopin badges" style="max-width: 100%;" />
+	  <img width="1014" height="252" alt="image" src="https://github.com/user-attachments/assets/4defc333-4887-46d6-8e0b-e13d3bb89e89" />
+    </a>
+
+  </div>
+</div>
+
+
+  
+<!-- Line -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- Streak Feature -->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+<div align="center" width="50%">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
+
+
+  </p>
+</div>
+
+<!-- Dropdown for More Stats -->
+<div align="center" style="max-width: 600px; margin: auto;">
+
+  <div align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
+  </div>
+  <br>
+  
+</div>
+
+<div align="center"
+	
+![Snake animation](https://raw.githubusercontent.com/neeru24/neeru24/output/github-snake-dark.svg)
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=2575fc&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
-
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
 </div>
+
