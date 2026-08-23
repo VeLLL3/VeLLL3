@@ -67,11 +67,6 @@
 > Total logged open-source coding time. Updated every 1 hour.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6585](https://github.com/hoppscotch/hoppscotch/pull/6585#issuecomment-5384568353) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. ℹ️ Labeled PR [#6597](https://github.com/hoppscotch/hoppscotch/pull/6597) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. ❌ Closed PR [#6597](https://github.com/hoppscotch/hoppscotch/pull/6597) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. ℹ️ Assigned PR [#6595](https://github.com/hoppscotch/hoppscotch/pull/6595) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. ℹ️ Labeled PR [#6594](https://github.com/hoppscotch/hoppscotch/pull/6594) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 <br>
 
