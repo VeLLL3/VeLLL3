@@ -62,15 +62,9 @@
   </tr>
 </table>
 
-<h2 align="left">Recent Activity</h2>
-
-> Total logged open-source coding time. Updated every 30 minutes.
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 <br>
-
 <hr />
+
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
 </p>
