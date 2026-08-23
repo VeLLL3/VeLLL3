@@ -64,7 +64,7 @@
 
 <h2 align="left">Recent Activity</h2>
 
-> Total logged open-source coding time. Updated every 1 hour.
+> Total logged open-source coding time. Updated every 30 minutes.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
