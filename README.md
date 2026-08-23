@@ -10,20 +10,40 @@
 
 </div>
 
-<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
+<h2 align="center">
+  Connect with me
+  <img
+    src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
+    width="60"
+    height="35"
+    alt="Handshake"
+  >
+</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/stefani-gifta-ganda">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+      alt="LinkedIn"
+    >
+  </a>&nbsp;
   <a href="https://codepen.io/stefanigifta">
-    <img src="https://custom-icon-badges.demolab.com/badge/CodePen-595858?logo=codepen-white&logoColor=fff" alt="CodePen">
-  </a>
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/CodePen-595858?logo=codepen-white&logoColor=fff"
+      alt="CodePen"
+    >
+  </a>&nbsp;
   <a href="https://instagram.com/stefanigifta">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
+    <img
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
+      alt="Instagram"
+    >
+  </a>&nbsp;
   <a href="mailto:stefanigiftaganda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
+      alt="Email"
+    >
   </a>
 </p>
 
@@ -98,9 +118,12 @@
   
 </div>
 
-<div align="center"
-	
-![Snake animation](https://raw.githubusercontent.com/VeLLL3/VeLLL3/output/github-snake-dark.svg)
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/VeLLL3/VeLLL3/output/github-snake-dark.svg"
+    alt="Snake animation"
+  >
 
 </div>
 
