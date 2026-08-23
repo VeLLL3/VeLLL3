@@ -87,9 +87,17 @@
 <!-- prettier-ignore-end -->
 
 <!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+<p align="center">
+  <a href="https://linkedin.com/in/stefani-gifta-ganda">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
+  <a href="https://codepen.io/stefanigifta">
+    <img src="https://custom-icon-badges.demolab.com/badge/CodePen-595858?logo=codepen-white&logoColor=fff" alt="CodePen">
+  </a>
+  <a href="https://instagram.com/stefanigifta">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:stefanigiftaganda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
