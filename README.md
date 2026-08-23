@@ -1,4 +1,4 @@
-<h1 align="left" id="velstitle">:wave: Hello there! I'm Jacob Colvin</h1>
+<h1 align="left" id="velstitle">:wave: Hello there! I'm Marvel</h1>
 
 <p align="left">
   <a href="https://github.com/VeLLL3/VeLLL3"><img src="https://komarev.com/ghpvc/?username=VeLLL3" alt="page views" /></a>
@@ -6,7 +6,7 @@
   <a href="https://github.com/VeLLL3?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/VeLLL3?style=flat&logo=github"></a>
 </p>
 
-<a href="#vels-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
+<a href="#vels-title"><img src="https://raw.githubusercontent.com/VeLLL3/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
