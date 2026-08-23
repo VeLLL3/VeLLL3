@@ -1,140 +1,99 @@
- <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/" target="_blank">VeLLL</h1> 
-     
-<div id="header" align="center">  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
-</div>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'27+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
-
-</div>
-
-<h2 align="center">
-  Connect with me
-  <img
-    src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
-    width="60"
-    height="35"
-    alt="Handshake"
-  >
-</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/stefani-gifta-ganda">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
-      alt="LinkedIn"
-    >
-  </a>&nbsp;
-  <a href="https://codepen.io/stefanigifta">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/CodePen-595858?logo=codepen-white&logoColor=fff"
-      alt="CodePen"
-    >
-  </a>&nbsp;
-  <a href="https://instagram.com/stefanigifta">
-    <img
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
-      alt="Instagram"
-    >
-  </a>&nbsp;
-  <a href="mailto:stefanigiftaganda@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
-      alt="Email"
-    >
-  </a>
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
+  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
+  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
+  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
+  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
+
+<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VeLLL3&style=for-the-badge" />
-</p>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
+> Tools, languages, and other things that I like to work with.
 
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-
-<!--Languages & tools-->
-<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
-
-<table align="center">
-
-<tr>
-<td><strong>Languages & Core Tech</strong></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=cpp,py,opencv,matlab,&theme=dark">
-</td>
-</tr>
-
-<tr>
-<td><strong>Frontend Development</strong></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark">
-</td>
-</tr>
-
-
-<tr>
-<td><strong>Developer Tools</strong></td>
-<td>
-<img height="40" src="https://skillicons.dev/icons?i=github,vscode,git,vercel,netlify,linux&theme=dark">
-</td>
-</tr>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
+      <br>KCL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
+      <br>Dagger
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
+      <br>Nix
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
+      <br>tmux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
+      <br>nvim
+    </td>
+  </tr>
 </table>
-<br>
 
+<h2 align="left">Coding Activity</h2>
 
-<!-- Line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
 
-<!-- Streak Feature -->
-<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
-<div align="center" width="50%">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VeLLL3&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
 
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
 
-  </p>
-</div>
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
-<!-- Dropdown for More Stats -->
-<div align="center" style="max-width: 600px; margin: auto;">
+<!-- links -->
 
-  <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeLLL3&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeLLL3&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeLLL3&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VeLLL3&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VeLLL3&theme=github_dark" />
-  </div>
-  <br>
-  
-</div>
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/VeLLL3/VeLLL3/output/github-snake-dark.svg"
-    alt="Snake animation"
-  >
-
-</div>
-
-<div align="center"> 
-    <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
-    </h1>
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
-
-</div>
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
