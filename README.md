@@ -6,7 +6,10 @@
   <a href="https://github.com/VeLLL3?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/VeLLL3?style=flat&logo=github"></a>
 </p>
 
-<a href="#vels-title"><img src="https://raw.githubusercontent.com/VeLLL3/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=VeLLL3&show_icons=true&theme=transparent"
+  alt="GitHub Stats"
+>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
