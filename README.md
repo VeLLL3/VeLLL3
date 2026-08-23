@@ -12,14 +12,10 @@
 
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
-<div align="center">
-  <a href="mailto:@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=10" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" height="40" alt="LinkedIn" />
-  </a>
-</div>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/stefani-gifta-ganda)
+[![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-595858?&logo=codepen-white&logoColor=black)](https://codepen.io/stefanigifta)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
 
 <br>
 
