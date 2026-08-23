@@ -85,7 +85,9 @@
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
+<br>
 
+<hr />
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
 </p>
