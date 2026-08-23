@@ -4,6 +4,10 @@
   <a href="https://github.com/VeLLL3/VeLLL3"><img src="https://komarev.com/ghpvc/?username=VeLLL3" alt="page views" /></a>
   <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
   <a href="https://github.com/VeLLL3?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/VeLLL3?style=flat&logo=github"></a>
+  <a href="https://linkedin.com/in/stefani-gifta-ganda"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="https://codepen.io/stefanigifta"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-595858?logo=codepen-white&logoColor=fff" alt="CodePen"></a>
+  <a href="https://instagram.com/stefanigifta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:stefanigiftaganda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <a href="#vels-title"><img src="https://raw.githubusercontent.com/VeLLL3/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
@@ -85,9 +89,7 @@
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
-<br>
 
-<hr />
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
 </p>
@@ -96,12 +98,4 @@
   <a href="https://buymeacoffee.com/vaibhavKesarwani" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
   </a>
-</p>
-
-<!-- links -->
-<p align="center">
-  <a href="https://linkedin.com/in/stefani-gifta-ganda"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-  <a href="https://codepen.io/stefanigifta"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-595858?logo=codepen-white&logoColor=fff" alt="CodePen"></a>
-  <a href="https://instagram.com/stefanigifta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:stefanigiftaganda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
