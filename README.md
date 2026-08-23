@@ -12,7 +12,7 @@
 
 <a href="#vels-title"><img src="https://raw.githubusercontent.com/VeLLL3/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :office: &nbsp;I'm currently working on something cool 😉
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
@@ -61,6 +61,15 @@
     </td>
   </tr>
 </table>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 <br>
 <hr />
