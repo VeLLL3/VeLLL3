@@ -86,6 +86,16 @@
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vaibhavKesarwani" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
+  </a>
+</p>
+
 <!-- links -->
 <p align="center">
   <a href="https://linkedin.com/in/stefani-gifta-ganda"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
