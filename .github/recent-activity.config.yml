@@ -1,5 +1,5 @@
 settings:
-  username: "VeLLL3" # ganti kalau bukan pakai default (repo owner)
+  username: "VeLLL3"
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
   readme_file: "./README.md"
@@ -7,17 +7,18 @@ settings:
     - "comments"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+07:00" # WIB
+    timezone: "GMT+07:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
-  messages:
-    push: "⬆️ Pushed to {REPO}" # <- fix: {AMOUNT} dihapus biar ga jadi "undefined"
-    issue_opened: "❗️ Opened issue {ID} in {REPO}"
-    issue_closed: "✔️ Closed issue {ID} in {REPO}"
-    pr_opened: "💪 Opened PR {ID} in {REPO}"
-    pr_closed: "❌ Closed PR {ID} in {REPO}"
-    pr_merged: "🎉 Merged PR {ID} in {REPO}"
-    create_repo: "📔 Created new repository {REPO}"
-    fork_repo: "🔱 Forked {FORK} from {REPO}"
+
+messages:
+  push: "⬆️ Pushed to {REPO}"
+  issue_opened: "❗️ Opened issue {ID} in {REPO}"
+  issue_closed: "✔️ Closed issue {ID} in {REPO}"
+  pr_opened: "💪 Opened PR {ID} in {REPO}"
+  pr_closed: "❌ Closed PR {ID} in {REPO}"
+  pr_merged: "🎉 Merged PR {ID} in {REPO}"
+  create_repo: "📔 Created new repository {REPO}"
+  fork_repo: "🔱 Forked {FORK} from {REPO}"
