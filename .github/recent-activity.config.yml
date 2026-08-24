@@ -1,22 +1,18 @@
 settings:
-  username: "VeLLL3" # Ganti dengan username GitHub kamu, atau hapus baris ini kalau workflow jalan di repo profil sendiri
+  username: "VeLLL3"
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5 # Jumlah baris aktivitas yang ditampilkan. Kalau dinaikkan, hapus komentar <!--RECENT_ACTIVITY:end--> di README (kalau ada)
+  max_lines: 5
   readme_file: "./README.md"
   disabled_events:
-    - "comments" # Event di sini TIDAK akan ditampilkan. Hapus/tambah sesuai kebutuhan
-    # Event lain yang bisa dinonaktifkan: push, issue_opened, issue_closed,
-    # pr_opened, pr_closed, pr_merged, create_repo, fork_repo, wiki_create,
-    # added_member, changes_approved, changes_requested, new_release, new_star
+    - "comments"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+07:00" # Zona waktu WIB. Sesuaikan kalau perlu, mis. GMT+00:00
+    timezone: "GMT+07:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
-  
   messages:
     comments: "💬 Commented on {ID} in {REPO}"
     push: "🚀 Pushed commit {ID} to {REPO}"
