@@ -64,11 +64,11 @@
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. :arrow_up: Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-2. :arrow_up: Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-3. :arrow_up: Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-4. :arrow_up: Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-5. :arrow_up: Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+1. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+2. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+3. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+4. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+5. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
