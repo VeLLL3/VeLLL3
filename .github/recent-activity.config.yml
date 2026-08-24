@@ -1,5 +1,5 @@
 settings:
-  username: "USERNAME_GITHUB_KAMU" # Ganti dengan username GitHub kamu, atau hapus baris ini kalau workflow jalan di repo profil sendiri
+  username: "VeLLL3" # Ganti dengan username GitHub kamu, atau hapus baris ini kalau workflow jalan di repo profil sendiri
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5 # Jumlah baris aktivitas yang ditampilkan. Kalau dinaikkan, hapus komentar <!--RECENT_ACTIVITY:end--> di README (kalau ada)
   readme_file: "./README.md"
@@ -16,9 +16,7 @@ settings:
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
-  ignored_repos:
-    - username/nama-repo-yang-diabaikan # Hapus atau sesuaikan; boleh dikosongkan sepenuhnya (hapus key ini) kalau tidak perlu
-
+  
   messages:
     comments: "💬 Commented on {ID} in {REPO}"
     push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
