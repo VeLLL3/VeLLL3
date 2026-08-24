@@ -24,14 +24,12 @@
 
 <p align="left">
   <img alt="Visual Studio Code" width="26px" src="./img/vsc.png" />
-  <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img alt="HTML5" width="26px" src="./img/html.png" />
+  <img alt="CSS3" width="26px" src="./img/css.png" />
+  <img alt="JavaScript" width="26px" src="./img/javascript.png" />
+  <img alt="Node.js" width="26px" src="./img/nodejs.png" />
+  <img alt="MongoDB" width="26px" src="./img/mongodb.png" />
+  <img alt="GitHub" width="26px" src="./img/github.png" />
 </p>
 
 
