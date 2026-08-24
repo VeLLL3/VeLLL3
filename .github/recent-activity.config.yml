@@ -5,6 +5,7 @@ settings:
   readme_file: "./README.md"
   disabled_events:
     - "comments"
+    - "push"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+07:00"
