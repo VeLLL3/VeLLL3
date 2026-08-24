@@ -23,19 +23,19 @@
 <h2 align="left" id="vels-tech">Languages and Tools</h2>
 
 <p align="left">
-  <img alt="Visual Studio Code" src="./img/vsc.png" width="26px" /> <b>Visual Studio Code</b>
+  <img src="./img/vsc.png" width="26px" style="vertical-align: middle;" /> <b>Visual Studio Code</b>
   &nbsp;&nbsp;
-  <img alt="HTML5" src="./img/html.png" width="26px" /> <b>HTML5</b>
+  <img src="./img/html.png" width="26px" style="vertical-align: middle;" /> <b>HTML5</b>
   &nbsp;&nbsp;
-  <img alt="CSS3" src="./img/css.png" width="26px" /> <b>CSS3</b>
+  <img src="./img/css.png" width="26px" style="vertical-align: middle;" /> <b>CSS3</b>
   &nbsp;&nbsp;
-  <img alt="JavaScript" src="./img/javascript.png" width="26px" /> <b>JavaScript</b>
+  <img src="./img/javascript.png" width="26px" style="vertical-align: middle;" /> <b>JavaScript</b>
   &nbsp;&nbsp;
-  <img alt="Node.js" src="./img/nodejs.png" width="26px" /> <b>Node.js</b>
+  <img src="./img/nodejs.png" width="26px" style="vertical-align: middle;" /> <b>Node.js</b>
   &nbsp;&nbsp;
-  <img alt="MongoDB" src="./img/mongodb.png" width="26px" /> <b>MongoDB</b>
+  <img src="./img/mongodb.png" width="26px" style="vertical-align: middle;" /> <b>MongoDB</b>
   &nbsp;&nbsp;
-  <img alt="GitHub" src="./img/github.png" width="26px" /> <b>GitHub</b>
+  <img src="./img/github.png" width="26px" style="vertical-align: middle;" /> <b>GitHub</b>
 </p>
 
 
