@@ -48,7 +48,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-2. ⭐ Starred [VeLLL3/github-stats-transparent](https://github.com/VeLLL3/github-stats-transparent)<br>
+2. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 3. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 4. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 5. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
