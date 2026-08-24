@@ -36,7 +36,7 @@
 
 
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
-
+> Automatically updated every minute.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 2. ⬆️ Pushed to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
