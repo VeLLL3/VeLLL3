@@ -63,8 +63,8 @@
 
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <br>
 <hr />
