@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
-<h1 align="left" id="velstitle"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello there! I'm Marvel - aka VeLLL</h1>
+<h1 align="left" id="velstitle"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello there! I'm Marvel</h1>
 
 <p align="left">
   <a href="https://github.com/VeLLL3/VeLLL3"><img src="https://komarev.com/ghpvc/?username=VeLLL3" alt="page views" /></a>
