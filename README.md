@@ -64,11 +64,11 @@
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-2. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-3. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-4. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-5. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+1. 🔱 Forked [VeLLL3/github-stats-transparent](https://github.com/VeLLL3/github-stats-transparent) from [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent)<br>
+2. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+3. ⭐ Starred [samujjwaal/samujjwaal](https://github.com/samujjwaal/samujjwaal)<br>
+4. ⭐ Starred [mscoutermarsh/mscoutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)<br>
+5. ⭐ Starred [taniarascia/accordion](https://github.com/taniarascia/accordion)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
