@@ -22,35 +22,36 @@
 
 <h2 align="left" id="vels-tech">Languages and Tools</h2>
 
-<p align="left">
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="Visual Studio Code" src="./img/vsc.png" width="26px" /> <b>Visual Studio Code</b>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="HTML5" src="./img/html.png" width="26px" /> <b>HTML5</b>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="CSS3" src="./img/css.png" width="26px" /> <b>CSS3</b>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="JavaScript" src="./img/javascript.png" width="26px" /> <b>JavaScript</b>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="Node.js" src="./img/nodejs.png" width="26px" /> <b>Node.js</b>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="MongoDB" src="./img/mongodb.png" width="26px" /> <b>MongoDB</b>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
-    <img alt="GitHub" src="./img/github.png" width="26px" /> <b>GitHub</b>
-  </span>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="./img/vsc.png" width="26px" alt="Visual Studio Code" />
+    </td>
+    <td><b>Visual Studio Code</b></td>
+    <td>
+      <img src="./img/html.png" width="26px" alt="HTML5" />
+    </td>
+    <td><b>HTML5</b></td>
+    <td>
+      <img src="./img/css.png" width="26px" alt="CSS3" />
+    </td>
+    <td><b>CSS3</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./img/javascript.png" width="26px" alt="JavaScript" />
+    </td>
+    <td><b>JavaScript</b></td>
+    <td>
+      <img src="./img/nodejs.png" width="26px" alt="Node.js" />
+    </td>
+    <td><b>Node.js</b></td>
+    <td>
+      <img src="./img/mongodb.png" width="26px" alt="MongoDB" />
+    </td>
+    <td><b>MongoDB</b></td>
+  </tr>
+</table>
 
 
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
