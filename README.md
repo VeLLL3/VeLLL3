@@ -65,11 +65,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-2. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-3. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-4. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-5. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
