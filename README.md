@@ -23,19 +23,33 @@
 <h2 align="left" id="vels-tech">Languages and Tools</h2>
 
 <p align="left">
-  <img src="./img/vsc.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>Visual Studio Code</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="Visual Studio Code" src="./img/vsc.png" width="26px" /> <b>Visual Studio Code</b>
+  </span>
   &nbsp;&nbsp;
-  <img src="./img/html.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>HTML5</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="HTML5" src="./img/html.png" width="26px" /> <b>HTML5</b>
+  </span>
   &nbsp;&nbsp;
-  <img src="./img/css.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>CSS3</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="CSS3" src="./img/css.png" width="26px" /> <b>CSS3</b>
+  </span>
   &nbsp;&nbsp;
-  <img src="./img/javascript.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>JavaScript</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="JavaScript" src="./img/javascript.png" width="26px" /> <b>JavaScript</b>
+  </span>
   &nbsp;&nbsp;
-  <img src="./img/nodejs.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>Node.js</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="Node.js" src="./img/nodejs.png" width="26px" /> <b>Node.js</b>
+  </span>
   &nbsp;&nbsp;
-  <img src="./img/mongodb.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>MongoDB</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="MongoDB" src="./img/mongodb.png" width="26px" /> <b>MongoDB</b>
+  </span>
   &nbsp;&nbsp;
-  <img src="./img/github.png" width="26px" style="vertical-align: middle; position: relative; top: 2px;" /> <b>GitHub</b>
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+    <img alt="GitHub" src="./img/github.png" width="26px" /> <b>GitHub</b>
+  </span>
 </p>
 
 
