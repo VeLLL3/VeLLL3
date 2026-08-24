@@ -1,29 +1,37 @@
 settings:
-  username: "VeLLL3"
+  username: "USERNAME_GITHUB_KAMU" # Ganti dengan username GitHub kamu, atau hapus baris ini kalau workflow jalan di repo profil sendiri
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
+  max_lines: 5 # Jumlah baris aktivitas yang ditampilkan. Kalau dinaikkan, hapus komentar <!--RECENT_ACTIVITY:end--> di README (kalau ada)
   readme_file: "./README.md"
   disabled_events:
-    - "comments"
+    - "comments" # Event di sini TIDAK akan ditampilkan. Hapus/tambah sesuai kebutuhan
+    # Event lain yang bisa dinonaktifkan: push, issue_opened, issue_closed,
+    # pr_opened, pr_closed, pr_merged, create_repo, fork_repo, wiki_create,
+    # added_member, changes_approved, changes_requested, new_release, new_star
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+07:00"
-    text: "🕒 Last synced: {DATE}"
+    timezone: "GMT+07:00" # Zona waktu WIB. Sesuaikan kalau perlu, mis. GMT+00:00
+    text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "
+  ignored_repos:
+    - username/nama-repo-yang-diabaikan # Hapus atau sesuaikan; boleh dikosongkan sepenuhnya (hapus key ini) kalau tidak perlu
+
   messages:
-    push: "⬆️ Pushed some commits to {REPO}"
-    issue_opened: "❗️ Opened a new issue {URL}"
-    issue_closed: "✔️ Closed out issue {URL}"
-    pr_opened: "💪 Opened a pull request {URL}"
-    pr_closed: "❌ Closed a pull request without merging {URL}"
-    pr_merged: "🎉 Merged a pull request {URL}"
-    create_repo: "📔 Started a brand new repository {REPO}"
+    comments: "💬 Commented on {ID} in {REPO}"
+    push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
+    issue_opened: "❗️ Opened issue {ID} in {REPO}"
+    issue_closed: "✔️ Closed issue {ID} in {REPO}"
+    pr_opened: "💪 Opened PR {ID} in {REPO}"
+    pr_closed: "❌ Closed PR {ID} in {REPO}"
+    pr_merged: "🎉 Merged PR {ID} in {REPO}"
+    create_repo: "📔 Created new repository {REPO}"
     fork_repo: "🔱 Forked {FORK} from {REPO}"
-    wiki_create: "📖 Added a new wiki page {WIKI} in {REPO}"
-    added_member: "🤝 Joined as a collaborator on {REPO}"
-    changes_approved: "👍 Approved changes on {URL}"
-    changes_requested: "🔴 Requested {AMOUNT} change(s) on {URL}"
-    new_release: "✌️ Shipped a new release {URL}"
+    wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
+    added_member: "🤝 Became collaborator on {REPO}"
+    changes_approved: "👍 Approved {ID} in {REPO}"
+    changes_requested: "🔴 Requested changes in {ID} in {REPO}"
+    new_release: "✌️ Released {ID} in {REPO}"
     new_star: "⭐ Starred {REPO}"
