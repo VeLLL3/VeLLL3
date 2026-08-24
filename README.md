@@ -64,11 +64,11 @@
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed some commits to {URL}<br>
-2. ⬆️ Pushed some commits to {URL}<br>
-3. ⬆️ Pushed some commits to {URL}<br>
-4. ⬆️ Pushed some commits to {URL}<br>
-5. ⬆️ Pushed some commits to {URL}<br>
+1. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+2. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+3. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+4. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
+5. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
