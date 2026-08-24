@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="vels-tech">Recent GitHub Activity<</h2>
+<h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
