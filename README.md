@@ -61,18 +61,10 @@
   </tr>
 </table>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-2. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-3. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-4. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-5. ⬆️ Pushed undefined commit(s) to [VeLLL3/VeLLL3](https://github.com/VeLLL3/VeLLL3)<br>
-<!--RECENT_ACTIVITY:end-->
+<h2 align="left" id="vels-tech">Recent GitHub Activity<</h2>
 
-</details>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <br>
 <hr />
