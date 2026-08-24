@@ -12,17 +12,15 @@
 
 <a href="#vels-title"><img src="https://raw.githubusercontent.com/VeLLL3/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
 
-- :office: &nbsp;I'm currently working on something cool 😉
-- :seedling: &nbsp;I’m currently learning Flutter, Go
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- ⚡ &nbsp;Fun fact: 
+- 💻 &nbsp;I'm currently working on something cool 😉
+- 🌱 &nbsp;I’m currently learning HTML, Javascript, CSS
+- 🚀 &nbsp;Building projects and bringing ideas to life
+- 🔭 &nbsp;Exploring new technologies and challenging myself
+- 💡 &nbsp;Fun fact: I rarely leave an idea as just an idea
 
 <br>
 
-<h2 align="left" id="vels-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<h2 align="left" id="vels-tech">Languages and Tools</h2>
 
 <p align="left">
   <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
