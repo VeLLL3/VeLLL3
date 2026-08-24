@@ -3,11 +3,11 @@
 
 <p align="left">
   <a href="https://github.com/VeLLL3/VeLLL3"><img src="https://komarev.com/ghpvc/?username=VeLLL3" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
+  <a href="https://velll.vercel.app"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
   <a href="https://github.com/VeLLL3?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/VeLLL3?style=flat&logo=github"></a>
-  <a href="https://linkedin.com/in/stefani-gifta-ganda"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-  <a href="https://instagram.com/stefanigifta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:stefanigiftaganda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <a href="#vels-title"><img src="https://raw.githubusercontent.com/VeLLL3/github-stats-transparent/output/generated/overview.svg" alt="vels" align="right" /></a>
