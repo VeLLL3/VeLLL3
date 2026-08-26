@@ -44,11 +44,11 @@
 > Automatically updated every 5 minute.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [VeLLL3/Personal-Portfolio](https://github.com/VeLLL3/Personal-Portfolio)<br>
-2. ⬆️ Pushed to [VeLLL3/Personal-Portfolio](https://github.com/VeLLL3/Personal-Portfolio)<br>
-3. ⬆️ Pushed to [VeLLL3/Personal-Portfolio](https://github.com/VeLLL3/Personal-Portfolio)<br>
-4. ⬆️ Pushed to [VeLLL3/Personal-Portfolio](https://github.com/VeLLL3/Personal-Portfolio)<br>
-5. ⬆️ Pushed to [VeLLL3/Personal-Portfolio](https://github.com/VeLLL3/Personal-Portfolio)<br>
+1. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
+2. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
+3. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
+4. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
+5. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
