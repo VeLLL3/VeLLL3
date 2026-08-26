@@ -41,7 +41,7 @@
 
 <h2 align="left" id="vels-tech">Recent GitHub Activity</h2>
 
-> Automatically updated every minute.
+> Automatically updated every 5 minute.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)<br>
