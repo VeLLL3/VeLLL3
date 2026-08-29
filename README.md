@@ -44,8 +44,8 @@
 > Automatically updated every 5 minute.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [xoxovell/xoxovell](https://github.com/xoxovell/xoxovell)<br>
-2. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
+1. ⬆️ Pushed to [xoxovell/getcontact-cli](https://github.com/xoxovell/getcontact-cli)<br>
+2. ⬆️ Pushed to [xoxovell/xoxovell](https://github.com/xoxovell/xoxovell)<br>
 3. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
 4. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
 5. ⬆️ Pushed to [xoxovell/Personal-Portfolio](https://github.com/xoxovell/Personal-Portfolio)<br>
